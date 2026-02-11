@@ -17,3 +17,5 @@ The goal of this project is to predict customer churn and identify customers at 
 
 ## Limitation
 This model is predictive, not causal, and results may change as customer behavior changes over time.
+
+_Last updated for Spring 2026 final exam._
